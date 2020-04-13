@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616430265476",
+    "firebase_url": "https://compound-77e7a.firebaseio.com",
+    "project_id": "compound-77e7a",
+    "storage_bucket": "compound-77e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616430265476:android:ee393c1530e33fe6890ed1",
+        "android_client_info": {
+          "package_name": "com.example.datacloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616430265476-hip6ue0otbhprguqfdt7htlsbp1s6gor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgoQpGrBZrXh0NMyNk4-kmYttpYVWJVX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616430265476-hip6ue0otbhprguqfdt7htlsbp1s6gor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
